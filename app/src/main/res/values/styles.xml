@@ -1,0 +1,68 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="text_style" parent="TextAppearance.AppCompat">
+
+        <item name="android:fontFamily" tools:ignore="NewApi">serif-monospace</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">36sp</item>
+        <item name="android:textStyle">bold</item>
+
+    </style>
+
+    <style name="artist_album_name_style" parent="TextAppearance.AppCompat">
+
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">italic</item>
+
+    </style>
+
+    <style name="album_name_style" parent="TextAppearance.AppCompat">
+
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+
+    </style>
+
+    <style name="genre_name_style" parent="TextAppearance.AppCompat">
+
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">italic</item>
+
+    </style>
+
+    <style name="artist_genre_name_style" parent="TextAppearance.AppCompat">
+
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+
+    </style>
+
+    <style name="artist_song_name_style" parent="TextAppearance.AppCompat">
+
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">italic</item>
+
+    </style>
+
+    <style name="song_name_style" parent="TextAppearance.AppCompat">
+
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+
+    </style>
+
+</resources>

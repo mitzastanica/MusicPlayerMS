@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Music Player MS</string>
+    <string name="all_songs_category">All SongS</string>
+    <string name="albums_category">AlbumS</string>
+    <string name="artists_category">ArtistS</string>
+    <string name="nameOfTheFirstArtist">RWMNCS</string>
+    <string name="nameOfTheSong1">Dirty Game</string>
+    <string name="nameOfTheSong2">Beats That Bang</string>
+    <string name="nameOfTheSong3">On My Own</string>
+    <string name="nameOfTheSong4">In Ya Head</string>
+    <string name="nameOfTheSong5">I Need This</string>
+    <string name="nameOfTheSong6">The Next Day</string>
+    <string name="nameOfTheSong7">Croissants and Cocoa Milk</string>
+    <string name="nameOfTheSong8">Fuck Luck</string>
+    <string name="nameOfTheSong9">On Fire</string>
+    <string name="nameOfTheSong10">Here I Am</string>
+    <string name="nameOfTheSong11">RAW</string>
+    <string name="nameOfTheSong12">4MP</string>
+    <string name="album_name">RAW</string>
+    <string name="genre_type">RAP/HIP-HOP</string>
+</resources>
